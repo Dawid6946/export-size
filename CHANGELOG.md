@@ -19,3 +19,4 @@
 - chore: add a note about the defaults
 - chore: clarify the setup steps
 - chore: add a note about the defaults
+- chore: add a note about the defaults
